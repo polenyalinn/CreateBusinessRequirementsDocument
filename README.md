@@ -1,2 +1,1 @@
-# create_brd
- Project: Create a Business Requirements Document
+Project of Create a Business Requirements Document
